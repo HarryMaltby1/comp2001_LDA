@@ -1,0 +1,70 @@
+{
+    "1": {
+        "Site": "Newnham Meadows",
+        "Area": "5.89",
+        "Ownership": "PCC"
+    },
+    "2": {
+        "Site": "Radford Woods",
+        "Area": "40.21",
+        "Ownership": "PCC"
+    },
+    "3": {
+        "Site": "Ham Woods",
+        "Area": "35.93",
+        "Ownership": "PCC"
+    },
+    "4": {
+        "Site": "Kings Tamerton",
+        "Area": "7.82",
+        "Ownership": "PCC"
+    },
+    "5": {
+        "Site": "Southway Valley",
+        "Area": "15.77",
+        "Ownership": "PCC"
+    },
+    "6": {
+        "Site": "Cann Woods",
+        "Area": "23.42",
+        "Ownership": "PCC"
+    },
+    "7": {
+        "Site": "Whitleigh Woods",
+        "Area": "20.18",
+        "Ownership": "Woodland Trust"
+    },
+    "8": {
+        "Site": "Budshead Wood",
+        "Area": "14.68",
+        "Ownership": "PCC"
+    },
+    "9": {
+        "Site": "Efford Marsh",
+        "Area": "25.08",
+        "Ownership": "PCC"
+    },
+    "10": {
+        "Site": "Seaton and Lower Bircham",
+        "Area": "33.23",
+        "Ownership": "PCC"
+    },
+    "11": {
+        "Site": "Bircham Valley",
+        "Area": "23.87",
+        "Ownership": "PCC"
+    },
+    "12": {
+        "Site": "Forder Valley",
+        "Area": "26.14",
+        "Ownership": "PCC"
+    },
+    "13": {
+        "Site": "Woodland Wood",
+        "Area": "29.67",
+        "Ownership": "PCC"
+    },
+    "14": {
+        "Site": null
+    }
+}
